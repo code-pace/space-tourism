@@ -16,7 +16,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -63,8 +62,8 @@ This time around, I decided to write a google free react app practice, though re
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/code-pace)
-- Twitter - [@yourusername](https://www.twitter.com/code_pace)
+- Frontend Mentor - [@code-pace](https://www.frontendmentor.io/profile/code-pace)
+- Twitter - [@code_pace](https://www.twitter.com/code_pace)
 
 ## Acknowledgments
 
