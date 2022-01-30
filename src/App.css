@@ -42,7 +42,7 @@ body {
 .navbar .holdLink {
   width: 75%;
   height: 100vh;
-  position: absolute;
+  position: inherit;
   right: 0;
   top: 0;
   display: flex;
@@ -51,7 +51,6 @@ body {
   justify-content: flex-start;
   background: rgba(40, 40, 63, 0.85);
   box-shadow: 0 8px 32px 0 rgba(38, 41, 83, 0.37);
-  backdrop-filter: blur( 4px );
   padding: 20px 0 0 20px;
   transition: 0.3s all ease-out 0.1s;
 }
